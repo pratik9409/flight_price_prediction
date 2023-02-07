@@ -1,5 +1,9 @@
 # Flight Price Prediction
 
+![ss](https://user-images.githubusercontent.com/67755812/217238903-4069d166-a154-4398-8d7a-86e2ac08483b.png)
+
+
+
 We will be analyzing the flight fare prediction using Machine Learning dataset using essential exploratory data analysis techniques then will draw some predictions about the price of the flight based on some features such as what type of airline it is, what is the arrival time, what is the departure time, what is the duration of the flight, source, destination and more.
 
 ### About the dataset
